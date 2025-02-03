@@ -1,4 +1,7 @@
+package T2;
+
 public class Car {
+
     private String model;
     private int miles;
 
